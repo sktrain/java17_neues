@@ -11,7 +11,8 @@ Materialien zum Seminar Java 11 (Update von Java8)
 	Migration_Eclipse.zip			-- Eclipse-Projekt für die Migrationsübung
 	Migration_deployments.zip		-- Unter Java 8 lauffähige jar-Version des Eclipse-Projekts
 	
-	Verzeichnis: 
+	Verzeichnis: Migration_Eclipse_sol 	-- enthält meine Lösung zur Migrationsübung
+		mm
 	
 
 
