@@ -12,7 +12,11 @@ Materialien zum Seminar Java 11 (Update von Java8)
 	Migration_deployments.zip		-- Unter Java 8 lauffähige jar-Version des Eclipse-Projekts
 	
 	Verzeichnis: Migration_Eclipse_sol 	-- enthält meine Lösung zur Migrationsübung
-		mm
+		 Migration_Eclipse_Sol.zip	-- bereinigtes Eclipse-Projekt
+		 jax_ws.zip			-- jar-Files für JAX-WS, die dem Projekt hinzuzufügen sind
+		 jaxb_2.3.2.zip 		-- jar-Files für JAXB, die dem Projekt hinzuzufügen sind 
+		 				   (bereits beim letzten Bsp. zum Modulsystem erforderlich)
+
 	
 
 
