@@ -9,6 +9,8 @@ Materialien zum Seminar Java 11 (Update von Java8)
 	java11_samples.zip    			-- Meine Beispiele zum Modulsystem
 	Migration_Eclipse.zip			-- Eclipse-Projekt für die Migrationsübung
 	Migration_deployments.zip		-- Unter Java 8 lauffähige jar-Version des Eclipse-Projekts
+	Maven_Java11_Modules.zip		-- Multi-Modul-Maven-Projekt
+	Maven_Java11Basis.zip			-- Maven-Projekt mit Beispielen zu Sprach- und API-Erweiterungen
 	
 	Verzeichnis: Migration_Eclipse_sol 	-- enthält meine Lösung zur Migrationsübung
 		 Migration_Eclipse_Sol.zip	-- bereinigtes Eclipse-Projekt
