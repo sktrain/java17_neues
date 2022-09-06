@@ -1,5 +1,5 @@
-# java11_neues
-Materialien zum Seminar Java 11 (Update von Java8)
+# java17_neues
+Materialien zum Seminar Java 17 (Update von Java8)
 
 	JAVA_11_Themenvorschlag.pdf		-- Themen/Agenda
 	JSMIG.pdf				-- Oracle Migration Info
