@@ -14,6 +14,7 @@ Materialien zum Seminar Java 17 (Update von Java8)
 	Module_06				-- Weiteres Beispiel zum Modulsystem mit Guava-Einbindung
 	Maven_Java11_Modules.zip		-- Multi-Modul-Maven-Projekt
 	Maven_Java11Basis.zip			-- Maven-Projekt mit Beispielen zu Sprach- und API-Erweiterungen
+	Java17_Language.zip			-- Eclipse-Projekt zu Sprach-Erweiterung 9-17
 	
 	Migration_Eclipse.zip			-- Eclipse-Projekt für die Migrationsübung
 	Migration_deployments.zip		-- Unter Java 8 lauffähige jar-Version des Eclipse-Projekts
