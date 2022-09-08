@@ -27,10 +27,7 @@ Materialien zum Seminar Java 17 (Update von Java8)
 	
 	Verzeichnis: Migration_Eclipse_sol 	-- enthält meine Lösung zur Migrationsübung
 		 Migration_Eclipse_Sol.zip	-- bereinigtes Eclipse-Projekt
-		 jax_ws.zip			-- jar-Files für JAX-WS, die dem Projekt hinzuzufügen sind
-		 jaxb_2.3.2.zip 		-- jar-Files für JAXB, die dem Projekt hinzuzufügen sind 
-		 				   (bereits beim letzten Bsp. zum Modulsystem erforderlich)
-
+		
 	
 
 
