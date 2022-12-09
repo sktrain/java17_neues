@@ -4,8 +4,6 @@ Materialien zum Seminar Java 17 (Update von Java8)
 	JAVA_11_Themenvorschlag.pdf		-- Themen/Agenda
 	JSMIG.pdf				-- Oracle Migration Info
 	
-	java9-12_Quellcode.zip			-- Quellcode Buch
-	
 	java_9-12 – Module_Aufgaben.pdf		-- Aufgaben zum Modulsystem
 	Java_9-12 - Ueb_Java9.pdf		-- Aufgaben zu Java 9
 	Java_9-12 - Ueb_Java10-11.pdf		-- Aufgaben zu Java 11
@@ -18,8 +16,6 @@ Materialien zum Seminar Java 17 (Update von Java8)
 	
 	java11_samples.zip    			-- Meine Beispiele zum Modulsystem
 	Module_06				-- Weiteres Beispiel zum Modulsystem mit Guava-Einbindung
-	Maven_Java11_Modules.zip		-- Multi-Modul-Maven-Projekt
-	Maven_Java11Basis.zip			-- Maven-Projekt mit Beispielen zu Sprach- und API-Erweiterungen
 	Java17_Language.zip			-- Eclipse-Projekt zu Sprach-Erweiterung 9-17
 	Java17_APis				-- Eclipse-Projekt zu den Api-Erweiterungen 12-17
 	
