@@ -18,6 +18,7 @@ Materialien zum Seminar Java 17 (Update von Java8)
 	Module_06				-- Weiteres Beispiel zum Modulsystem mit Guava-Einbindung
 	Java17_Language.zip			-- Eclipse-Projekt zu Sprach-Erweiterung 9-17
 	Java17_APis				-- Eclipse-Projekt zu den Api-Erweiterungen 12-17
+	java9-12_Quellcode.zip			-- Programmbeispiele aus dem Buch zu Java 9 - 12
 	
 	Migration_Eclipse.zip			-- Eclipse-Projekt für die Migrationsübung
 	Migration_deployments.zip		-- Unter Java 8 lauffähige jar-Version des Eclipse-Projekts
