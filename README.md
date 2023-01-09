@@ -1,7 +1,8 @@
 # java17_neues
 Materialien zum Seminar Java 17 (Update von Java8)
 
-	JAVA_11_Themenvorschlag.pdf		-- Themen/Agenda
+	JAVA_11_Themenvorschlag.pdf		-- Themen/Agenda Debeka
+	GFU-Seminarbeschreibung.pdf		-- Themen/Agenda GFU
 	JSMIG.pdf				-- Oracle Migration Info
 	
 	java_9-12 – Module_Aufgaben.pdf		-- Aufgaben zum Modulsystem
