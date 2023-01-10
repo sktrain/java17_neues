@@ -1,7 +1,8 @@
 # java17_neues
 Materialien zum Seminar Java 17 (Update von Java8)
 
-	JAVA_11_Themenvorschlag.pdf		-- Themen/Agenda Debeka
+	
+	Java17_Agenda.pdf 			-- Themen/Agenda Debeka
 	GFU-Seminarbeschreibung.pdf		-- Themen/Agenda GFU
 	JSMIG.pdf				-- Oracle Migration Info
 	
