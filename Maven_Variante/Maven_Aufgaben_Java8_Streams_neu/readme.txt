@@ -1,0 +1,1 @@
+Aufgaben zum Stream-API
